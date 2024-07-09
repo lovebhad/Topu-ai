@@ -1,7 +1,7 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/Toputech/Topu-ai/root/Topumdai
+RUN git clone https://github.com/Bhadboitech/Bhadboi-ai/root/Bhadboimdai
 WORKDIR /root/Topumdai
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY TOPU TECH
+# POWERD BY BHADBOI TECH
