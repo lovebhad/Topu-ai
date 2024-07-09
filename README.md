@@ -102,7 +102,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *BHADBOI-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
 TOPU Md is safe for your WhatsApp and heroku
@@ -127,7 +127,7 @@ TOPU Md is safe for your WhatsApp and heroku
 
 The *BHADBOI-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *BHADBOI-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by BHADBOI Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
