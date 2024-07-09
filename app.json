@@ -1,7 +1,7 @@
 {
-  "name": "TOPU-Md",
+  "name": "BHADBOI-Md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
+  "logo": "https://telegra.ph/file/c002ea69c0f5f17a7ee76.jpg",
   "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "topu tech",
+      "value": "BHADBOI tech",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝚻𝚯𝚸𝐔 𝚳𝐃"
+      "value": "BHADBOI 𝚳𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -36,8 +36,8 @@
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -90,11 +90,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "B"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255673750170"
+      "value": "254785677100"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Topu",
+      "value": "Bhadboi",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Topu dmh",
+      "value": "bhadboi dmh",
       "required": false
     }
   },
