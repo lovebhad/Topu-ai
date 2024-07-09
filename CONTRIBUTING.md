@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# TOPU MD
+# BHADBOI MD
 
-You can send anything via VODACOM Mpesa number 0757768881<b>Elibariki Kanuya </b>
+You can send anything via VODACOM Mpesa number 0742183100<b>Elibariki Kanuya </b>
