@@ -1,18 +1,18 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
+ <h1 align="center"> BHADBOI 𝚳𝐃 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+BHADBOI+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+BHABOIDMH)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing BHADBOI Md, A Simple WhatsApp user BOT, Created by BHADBOI Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/c002ea69c0f5f17a7ee76.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -36,18 +36,18 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/bhadboitech/bhadboi-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://topu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://bhadboi-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bhadboitech/Bhadboi-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+254785677100">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+## Thankyou for choosing BHADBOI MD bot 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -110,7 +110,7 @@ TOPU Md is safe for your WhatsApp and heroku
 ## Reporting a Vulnerability
 
 
-## powered by TOPU MD
+## powered by BHADBOI MD
 
 
 ## THANKS TO
@@ -125,9 +125,9 @@ TOPU Md is safe for your WhatsApp and heroku
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BHADBOI-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by TOPU Tech
+☣Powered by BHADBOI Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
